@@ -11,9 +11,9 @@
 
 ## Table of contents
 
-- [Steg 1: Variabler og operasjoner](#Variabler og operasjoner)
-- [Steg 2: If-setninger](#If)
-- [Steg 3: Funksjoner](#Funksjoner)
+- [Steg 1: Variabler og operasjoner](#Steg-1:-Variabler-og-operasjoner)
+- [Steg 2: If-setninger](#Steg-2:-If-setninger )
+- [Steg 3: Funksjoner](#Steg-3:-Funksjoner)
 - [Linker](#Linker)
 
 
@@ -304,7 +304,7 @@ var grader = fahrenheitTilCelsius(77);
 ## Linker
 
 #### ulike regnearter i JavaScript!
-* [Gruppeoppgave 1]()
-* [Gruppeoppgave 2]()
+* [Gruppeoppgave 1](https://jsfiddle.net/legendmvb/p0197yaL/19/)
+* [Gruppeoppgave 2](https://jsfiddle.net/legendmvb/kLq1pobj/25/)
 * [Gruppeoppgave 3]()
 * [Gruppeoppgave 4](https://jsfiddle.net/Olav7/ftu3g9xr/42/)
